@@ -337,15 +337,15 @@ body {
     margin-bottom: 25px;
 }
 
-.current-container>.current-card>.txt>a{
+.current-container>.current-card>.txt>a {
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
-font-size: 16px;
-font-weight: 700;
-line-height: 19px;
-letter-spacing: 0%;
-text-align: left;
-text-decoration-line: underline;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
 }
 
 .bg1 {
@@ -361,3 +361,93 @@ text-decoration-line: underline;
 }
 
 /* current target end */
+
+/* next target section start */
+
+.next-trgt {
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+}
+
+.next-trgt>h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 35px;
+    letter-spacing: 0%;
+    margin-top: 41px;
+    margin-bottom: 25px;
+    display: inline-block;
+}
+
+.next-trgt>p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0%;
+    margin-bottom: 48px;
+}
+
+.next-trgt>.next-card {
+    width: 100%;
+    padding: 17px;
+    text-align: start;
+    display: flex;
+    justify-content: space-between;
+    gap: 3%;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 17px;
+    margin-bottom: 25px;
+}
+
+.next-trgt>.next-card>.imge {
+    width: 15%;
+    padding: 25px;
+    display: grid;
+    align-items: center;
+}
+
+.next-trgt>.next-card>.imge>img {
+    width: 100%;
+}
+
+.next-trgt>.next-card>.txt {
+    width: 82%;
+    padding: 15px;
+}
+
+.next-trgt>.next-card>.txt>h4 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.next-trgt>.next-card>.txt>p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    margin-bottom: 25px;
+}
+
+.next-trgt>.next-card>.txt>a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
