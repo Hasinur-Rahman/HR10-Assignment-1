@@ -565,3 +565,49 @@ footer {
 }
 
 /* footer section end */
+
+
+
+/* blog section start */
+.blog{
+    max-width: 80%;
+    margin: 100px auto 50px;
+
+}
+.blog>h3{
+    color: rgb(77, 76, 76);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    margin-bottom: 15px; 
+}
+
+.blog>p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0%;
+    margin-bottom: 48px;
+    text-align: justify;
+}
+
+.blog>a{
+    text-decoration: none;
+    padding: 18px 21px;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+
+}
+/* blog end */
